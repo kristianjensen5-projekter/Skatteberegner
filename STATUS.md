@@ -1,5 +1,7 @@
 # Status: Skatteberegner (repo)
 
+**Tilstand:** afsluttet
+
 Opdateret: 13. juli 2026 (midlertidig Cloudflare-mirror pga. GitHub-konto spærret)
 
 ## ⚠️ AKUT: GitHub-kontoen kristianjensen5 er spærret
@@ -177,3 +179,7 @@ Body-baggrunden var uspecificeret (browser-default) i begge filer. Sat til `#fbf
 
 - Ingen af beregnerne medregner kirkeskat, personlige fradrag eller kommuneskatteforskelle.
 - CSS-klasser og -variabler er namespacet (`skb-` / `pfa-calc-`) for at undgå konflikt med Politikens styles ved embed.
+
+## Slutnotat
+
+Afsluttet 2026-11-11 efter Kristians valg i projektoverblikket. To beregnere til artikler: skattelettelsesberegner (færdig og deployet) og PFA-pensionsberegner (under udvikling, ikke beskrevet som færdig). STATUS beskriver en akut GitHub-kontospærring fra 13. juli 2026; læs den, før repoet bruges igen.
